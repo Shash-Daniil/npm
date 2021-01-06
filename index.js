@@ -1,1 +1,3 @@
-console.log("cerf");
+import _ from 'lodash';
+
+console.log(_.last(['one', 'two']));

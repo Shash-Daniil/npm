@@ -1,5 +1,6 @@
 {
   "name": "test",
+  "type":"module",
   "version": "1.0.0",
   "description": "nodesc",
   "main": "index.js",
@@ -15,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Shash-Daniil/npm/issues"
   },
-  "homepage": "https://github.com/Shash-Daniil/npm#readme"
+  "homepage": "https://github.com/Shash-Daniil/npm#readme",
+  "dependencies": {
+    "lodash": "^4.17.20"
+  }
 }
