@@ -1,0 +1,19 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "nodesc",
+  "main": "index.js",
+  "scripts": {
+    "test": "lol"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shash-Daniil/npm.git"
+  },
+  "author": "daniil",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Shash-Daniil/npm/issues"
+  },
+  "homepage": "https://github.com/Shash-Daniil/npm#readme"
+}
